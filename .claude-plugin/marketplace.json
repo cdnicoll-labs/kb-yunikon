@@ -1,15 +1,15 @@
 {
-  "name": "yunikon",
+  "name": "kb-yunikon",
   "description": "Yunikon's own knowledge base skills. Add alongside the kb-skills marketplace, which carries the core skills.",
   "owner": {
     "name": "Cody Nicoll"
   },
   "plugins": [
     {
-      "name": "yunikon",
+      "name": "kb-yunikon",
       "source": "./",
       "description": "Yunikon-specific skills. Install with kb-core, then add the kb-yunikon connector.",
-      "version": "0.4.0"
+      "version": "0.5.0"
     }
   ]
 }

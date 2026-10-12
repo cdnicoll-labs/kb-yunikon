@@ -22,7 +22,7 @@ Two marketplaces: this one for Yunikon's skills, and `kb-skills` for the core sk
 claude plugin marketplace add https://github.com/cdnicoll-labs/kb-skills.git
 claude plugin marketplace add https://github.com/cdnicoll-labs/kb-yunikon.git
 claude plugin install kb-core@kb-skills
-claude plugin install yunikon@yunikon
+claude plugin install kb-yunikon@kb-yunikon
 ```
 
 Both repos are public, so no GitHub login is needed. Use the full `https://` URLs: the `owner/repo`

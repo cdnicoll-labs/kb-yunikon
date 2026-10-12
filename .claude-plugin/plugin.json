@@ -1,8 +1,8 @@
 {
-  "name": "yunikon",
+  "name": "kb-yunikon",
   "displayName": "Knowledge base: Yunikon",
   "description": "Yunikon's knowledge base skills. Carries no connection: add kb-yunikon as a connector, or through a client hub's .mcp.json.",
-  "version": "0.4.0",
+  "version": "0.5.0",
   "author": {
     "name": "Cody Nicoll"
   }
